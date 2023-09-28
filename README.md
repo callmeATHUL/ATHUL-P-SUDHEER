@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Athul P Sudheer
 
 ### About Me
-- 💼 Full-Stack Developer at an Outsourcing Firm for a Bank
+- 💼 Full-Stack Developer at Interland Technology Services
 - 🌐 Passionate about Front-End Development
 - 🎨 Graphic Designer and 3D Enthusiast
 - 🚀 Constantly learning and experimenting
